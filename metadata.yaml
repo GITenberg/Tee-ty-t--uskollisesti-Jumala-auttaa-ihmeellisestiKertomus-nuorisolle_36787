@@ -1,0 +1,30 @@
+_repo: Tee-ty-t--uskollisesti-Jumala-auttaa-ihmeellisestiKertomus-nuorisolle_36787
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+description: ''
+gutenberg_issued: '2011-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36787'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+tableOfContents: Adelbert von Wildström -- Georg Wald -- Maalaajan kuolema -- Georg
+  napisee -- Apu hädässä -- Pastori Friedrich -- Sorvarimestari -- Kahden vuoden perästä
+  -- Pastoria tervehtimässä -- Eräs poika -- Jumalan siunaus -- Loppu.
+title: 'Tee työtä uskollisesti, Jumala auttaa ihmeellisesti: Kertomus nuorisolle'
+url: http://www.gutenberg.org/ebooks/36787
