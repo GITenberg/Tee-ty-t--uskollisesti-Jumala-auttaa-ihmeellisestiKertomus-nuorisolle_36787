@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31340'
     url: http://www.gutenberg.org/2009/agents/31340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36787#Tee-ty-t--uskollisesti-Jumala-auttaa-ihmeellisestiKertomus-nuorisolle
 gutenberg_issued: '2011-07-19'
 gutenberg_type: Text
 identifiers:
